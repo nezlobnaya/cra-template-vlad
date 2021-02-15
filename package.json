@@ -10,10 +10,11 @@
   "description": "The base template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "",
+    "url": "https://github.com/nezlobnaya/cra-template-vlad",
     "directory": ""
   },
   "license": "MIT",
+  "author": "Vlad Burlutskiy",
   "engines": {
     "node": ">=10"
   },
