@@ -27,3 +27,4 @@ This template also includes:
 - husky
 - source-map-explorer
 
+Also a `serve` script that let's your run `serve -s build` and a `build-and-serve` script that runs `npm run build && npm run serve`.
