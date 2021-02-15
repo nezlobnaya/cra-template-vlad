@@ -10,11 +10,10 @@ The `vlad` template uses the following utilities :
 - [Source map explorer ](https://github.com/danvk/source-map-explorer) – Analyze and debug JavaScript (or Sass or LESS) code bloat through source maps.
 - [Code coverage reporting](https://github.com/nezlobnaya/cra-template-vlad/blob/main/template.json) – an npm script for code coverage reporting using [Jest](https://jestjs.io/).
 
-This template includes:
+This template also includes:
 
 - axios
 - material-ui/core
-- node-sass
 - react-redux
 - react-router
 - react-router-dom
