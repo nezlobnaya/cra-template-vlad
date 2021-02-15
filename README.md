@@ -22,5 +22,8 @@ This template also includes:
 - jwt-decode
 - serve
 - react-file-base64
-- styled-components
+- prettier
+- pretty-quick
+- husky
+- source-map-explorer
 
