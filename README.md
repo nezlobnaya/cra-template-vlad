@@ -1,4 +1,4 @@
-# cra-template-vlad
+# cra-template-vlad version 1.1.2
 
 This is the official `vlad` template for [Create React App](https://github.com/facebook/create-react-app).
 
